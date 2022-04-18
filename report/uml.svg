@@ -1,0 +1,1199 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1600"
+   height="1600"
+   viewBox="0 0 423.33334 423.33332"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.0.2 (e86c870879, 2021-01-15, custom)"
+   sodipodi:docname="uml.svg">
+  <defs
+     id="defs2">
+    <rect
+       x="12.045029"
+       y="20.360504"
+       width="115.65328"
+       height="9.4004288"
+       id="rect983" />
+    <rect
+       x="17.105249"
+       y="24.321527"
+       width="116.06424"
+       height="10.463034"
+       id="rect837" />
+    <rect
+       x="17.105249"
+       y="24.321527"
+       width="87.052544"
+       height="54.095497"
+       id="rect837-0" />
+    <rect
+       x="17.105249"
+       y="24.321527"
+       width="68.153732"
+       height="19.510675"
+       id="rect852" />
+    <rect
+       x="17.105249"
+       y="24.321527"
+       width="109.35314"
+       height="111.92585"
+       id="rect837-0-1" />
+    <rect
+       x="17.105249"
+       y="24.321527"
+       width="87.052544"
+       height="54.095497"
+       id="rect907" />
+    <rect
+       x="17.105249"
+       y="24.321527"
+       width="92.629723"
+       height="8.3463669"
+       id="rect837-5" />
+    <rect
+       x="17.105249"
+       y="24.321527"
+       width="116.06424"
+       height="10.463034"
+       id="rect1035" />
+    <rect
+       x="17.105249"
+       y="24.321527"
+       width="87.052544"
+       height="54.095497"
+       id="rect837-0-5" />
+    <rect
+       x="17.105249"
+       y="24.321527"
+       width="87.052544"
+       height="54.095497"
+       id="rect1038" />
+    <rect
+       x="17.105249"
+       y="24.321527"
+       width="109.35314"
+       height="111.92585"
+       id="rect837-0-1-8" />
+    <rect
+       x="17.105249"
+       y="24.321527"
+       width="109.35314"
+       height="111.92585"
+       id="rect1041" />
+    <rect
+       x="17.105249"
+       y="24.321527"
+       width="79.533516"
+       height="8.3463669"
+       id="rect837-5-3" />
+    <rect
+       x="17.105249"
+       y="24.321527"
+       width="92.629723"
+       height="8.3463669"
+       id="rect1307" />
+    <rect
+       x="17.105249"
+       y="24.321527"
+       width="87.052544"
+       height="54.095497"
+       id="rect837-0-5-5" />
+    <rect
+       x="17.105249"
+       y="24.321527"
+       width="87.052544"
+       height="54.095497"
+       id="rect1310" />
+    <rect
+       x="17.105249"
+       y="24.321527"
+       width="109.35314"
+       height="111.92585"
+       id="rect837-0-1-8-9" />
+    <rect
+       x="17.105249"
+       y="24.321527"
+       width="109.35314"
+       height="111.92585"
+       id="rect1313" />
+    <rect
+       x="17.105249"
+       y="24.321527"
+       width="115.61489"
+       height="8.3463669"
+       id="rect837-5-3-5" />
+    <rect
+       x="17.105249"
+       y="24.321527"
+       width="79.533516"
+       height="8.3463669"
+       id="rect1523" />
+    <rect
+       x="17.105249"
+       y="24.321527"
+       width="87.052544"
+       height="54.095497"
+       id="rect837-0-5-5-1" />
+    <rect
+       x="17.105249"
+       y="24.321527"
+       width="87.052544"
+       height="54.095497"
+       id="rect1526" />
+    <rect
+       x="17.105249"
+       y="24.321527"
+       width="109.35314"
+       height="111.92585"
+       id="rect837-0-1-8-9-8" />
+    <rect
+       x="17.105249"
+       y="24.321527"
+       width="109.35314"
+       height="111.92585"
+       id="rect1529" />
+    <rect
+       x="17.105249"
+       y="24.321527"
+       width="76.305382"
+       height="8.3463669"
+       id="rect837-5-3-5-9" />
+    <rect
+       x="17.105249"
+       y="24.321527"
+       width="115.61489"
+       height="8.3463669"
+       id="rect1751" />
+    <rect
+       x="17.105249"
+       y="24.321527"
+       width="88.564445"
+       height="72.270241"
+       id="rect837-0-5-5-1-2" />
+    <rect
+       x="17.105249"
+       y="24.321527"
+       width="87.052544"
+       height="54.095497"
+       id="rect1754" />
+    <rect
+       x="17.105249"
+       y="24.321527"
+       width="109.35314"
+       height="111.92585"
+       id="rect837-0-1-8-9-8-5" />
+    <rect
+       x="17.105249"
+       y="24.321527"
+       width="109.35314"
+       height="111.92585"
+       id="rect1757" />
+    <rect
+       x="17.105249"
+       y="24.321527"
+       width="80.068054"
+       height="8.3463669"
+       id="rect837-5-3-5-3" />
+    <rect
+       x="17.105249"
+       y="24.321527"
+       width="115.61489"
+       height="8.3463669"
+       id="rect1947" />
+    <rect
+       x="17.105249"
+       y="24.321527"
+       width="87.052544"
+       height="54.095497"
+       id="rect837-0-5-5-1-7" />
+    <rect
+       x="17.105249"
+       y="24.321527"
+       width="87.052544"
+       height="54.095497"
+       id="rect1950" />
+    <rect
+       x="17.105249"
+       y="24.321527"
+       width="109.35314"
+       height="111.92585"
+       id="rect837-0-1-8-9-8-1" />
+    <rect
+       x="17.105249"
+       y="24.321527"
+       width="109.35314"
+       height="111.92585"
+       id="rect1953" />
+    <rect
+       x="17.105249"
+       y="24.321527"
+       width="87.017059"
+       height="8.3463669"
+       id="rect837-5-3-5-5" />
+    <rect
+       x="17.105249"
+       y="24.321527"
+       width="115.61489"
+       height="8.3463669"
+       id="rect2135" />
+    <rect
+       x="17.105249"
+       y="24.321527"
+       width="87.052544"
+       height="54.095497"
+       id="rect837-0-5-5-1-5" />
+    <rect
+       x="17.105249"
+       y="24.321527"
+       width="87.052544"
+       height="54.095497"
+       id="rect2138" />
+    <rect
+       x="17.105249"
+       y="24.321527"
+       width="109.35314"
+       height="111.92585"
+       id="rect837-0-1-8-9-8-8" />
+    <rect
+       x="17.105249"
+       y="24.321527"
+       width="109.35314"
+       height="111.92585"
+       id="rect2141" />
+    <rect
+       x="17.105249"
+       y="24.321527"
+       width="60.241383"
+       height="8.5353546"
+       id="rect837-5-3-5-3-6" />
+    <rect
+       x="17.105249"
+       y="24.321527"
+       width="115.61489"
+       height="8.3463669"
+       id="rect2347" />
+    <rect
+       x="17.105249"
+       y="24.321527"
+       width="87.052544"
+       height="54.095497"
+       id="rect837-0-5-5-1-7-5" />
+    <rect
+       x="17.105249"
+       y="24.321527"
+       width="87.052544"
+       height="54.095497"
+       id="rect2350" />
+    <rect
+       x="17.105249"
+       y="24.321527"
+       width="109.35314"
+       height="111.92585"
+       id="rect837-0-1-8-9-8-1-8" />
+    <rect
+       x="17.105249"
+       y="24.321527"
+       width="109.35314"
+       height="111.92585"
+       id="rect2353" />
+    <rect
+       x="17.105249"
+       y="24.321527"
+       width="72.842957"
+       height="8.346364"
+       id="rect837-5-3-5-5-6" />
+    <rect
+       x="17.105249"
+       y="24.321527"
+       width="87.017059"
+       height="8.3463669"
+       id="rect2463" />
+    <rect
+       x="17.105249"
+       y="24.321527"
+       width="87.052544"
+       height="54.095497"
+       id="rect837-0-5-5-1-5-7" />
+    <rect
+       x="17.105249"
+       y="24.321527"
+       width="87.052544"
+       height="54.095497"
+       id="rect2466" />
+    <rect
+       x="17.105249"
+       y="24.321527"
+       width="109.35314"
+       height="111.92585"
+       id="rect837-0-1-8-9-8-8-5" />
+    <rect
+       x="17.105249"
+       y="24.321527"
+       width="109.35314"
+       height="111.92585"
+       id="rect2469" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="891.09339"
+     inkscape:cy="397.43674"
+     inkscape:document-units="px"
+     inkscape:current-layer="g1024-2-0-5-05-0"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:snap-bbox="true"
+     inkscape:snap-bbox-edge-midpoints="false"
+     inkscape:bbox-paths="false"
+     inkscape:snap-smooth-nodes="false"
+     inkscape:object-nodes="true"
+     inkscape:object-paths="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:bbox-nodes="false"
+     units="px"
+     inkscape:snap-others="false"
+     inkscape:snap-nodes="true" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Calque 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g1024"
+       transform="translate(85.66741,35.258442)">
+      <rect
+         style="opacity:1;fill:none;stroke:#000000;stroke-width:0.164162;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect833"
+         width="115.65328"
+         height="149.03186"
+         x="12.045029"
+         y="20.360504" />
+      <text
+         xml:space="preserve"
+         id="text835"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:6.35px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto Medium';text-align:start;white-space:pre;shape-inside:url(#rect837);"
+         transform="translate(44.240949,-2.6396913)"
+         x="16.163353"
+         y="0"><tspan
+           x="17.105469"
+           y="29.878516"><tspan
+             style="text-align:justify;text-anchor:start">Game</tspan></tspan></text>
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="M 12.058116,29.760933 H 127.69831"
+         id="path841"
+         sodipodi:nodetypes="cc" />
+      <text
+         xml:space="preserve"
+         id="text835-8"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:4.7625px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto Medium';white-space:pre;shape-inside:url(#rect837-0);"
+         transform="translate(-1.1363437,8.2864492)"><tspan
+           x="17.105469"
+           y="28.489453"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.7625px;font-family:Roboto;-inkscape-font-specification:Roboto;shape-inside:url(#rect837-0)">- players : Player []
+</tspan></tspan><tspan
+           x="17.105469"
+           y="34.442578"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.7625px;font-family:Roboto;-inkscape-font-specification:Roboto;shape-inside:url(#rect837-0)">- gameTurn : int
+</tspan></tspan><tspan
+           x="17.105469"
+           y="40.395703"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.7625px;font-family:Roboto;-inkscape-font-specification:Roboto;shape-inside:url(#rect837-0)">- playOrderShift : int
+</tspan></tspan><tspan
+           x="17.105469"
+           y="46.348828"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.7625px;font-family:Roboto;-inkscape-font-specification:Roboto;shape-inside:url(#rect837-0)">- lastDiceResult : int
+</tspan></tspan><tspan
+           x="17.105469"
+           y="52.301953"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.7625px;font-family:Roboto;-inkscape-font-specification:Roboto;shape-inside:url(#rect837-0)">- firstRolls : Map&lt;Player,Integer&gt;
+</tspan></tspan><tspan
+           x="17.105469"
+           y="58.255078"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.7625px;font-family:Roboto;-inkscape-font-specification:Roboto;shape-inside:url(#rect837-0)">- computerController : PlayerAIController</tspan></tspan></text>
+      <path
+         style="display:inline;fill:none;stroke:#000000;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="M 12.045029,70.49256 H 127.69831"
+         id="path841-3"
+         sodipodi:nodetypes="cc" />
+      <text
+         xml:space="preserve"
+         id="text835-8-8"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:4.7625px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto Medium';white-space:pre;shape-inside:url(#rect837-0-1);display:inline;"
+         transform="translate(-1.2020631,48.012725)"><tspan
+           x="17.105469"
+           y="28.489453"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.7625px;font-family:Roboto;-inkscape-font-specification:Roboto;shape-inside:url(#rect837-0-1)">- getPlayer(color : PlayerColor) : Player
+</tspan></tspan><tspan
+           x="17.105469"
+           y="34.442578"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.7625px;font-family:Roboto;-inkscape-font-specification:Roboto;shape-inside:url(#rect837-0-1)">- isGameFinished() : boolean
+</tspan></tspan><tspan
+           x="17.105469"
+           y="40.395703"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.7625px;font-family:Roboto;-inkscape-font-specification:Roboto;shape-inside:url(#rect837-0-1)">- incrementGameTurn() : void
+</tspan></tspan><tspan
+           x="17.105469"
+           y="46.348828"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.7625px;font-family:Roboto;-inkscape-font-specification:Roboto;shape-inside:url(#rect837-0-1)">- getGameTurn() : int
+</tspan></tspan><tspan
+           x="17.105469"
+           y="52.301953"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.7625px;font-family:Roboto;-inkscape-font-specification:Roboto;shape-inside:url(#rect837-0-1)">- allowAnotherTurn() : void
+</tspan></tspan><tspan
+           x="17.105469"
+           y="58.255078"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.7625px;font-family:Roboto;-inkscape-font-specification:Roboto;shape-inside:url(#rect837-0-1)">- getComputerController() : PlayerAIController
+</tspan></tspan><tspan
+           x="17.105469"
+           y="64.208203"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.7625px;font-family:Roboto;-inkscape-font-specification:Roboto;shape-inside:url(#rect837-0-1)">- hasComputers() : boolean
+</tspan></tspan><tspan
+           x="17.105469"
+           y="70.161328"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.7625px;font-family:Roboto;-inkscape-font-specification:Roboto;shape-inside:url(#rect837-0-1)">- getTurnPlayer() : Player
+</tspan></tspan><tspan
+           x="17.105469"
+           y="76.114453"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.7625px;font-family:Roboto;-inkscape-font-specification:Roboto;shape-inside:url(#rect837-0-1)">- finishTurn() : void
+</tspan></tspan><tspan
+           x="17.105469"
+           y="82.067578"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.7625px;font-family:Roboto;-inkscape-font-specification:Roboto;shape-inside:url(#rect837-0-1)">- play(piece : Piece) : void
+</tspan></tspan><tspan
+           x="17.105469"
+           y="88.020703"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.7625px;font-family:Roboto;-inkscape-font-specification:Roboto;shape-inside:url(#rect837-0-1)">- piecesOnSquare(square : int) List&lt;Piece&gt;
+</tspan></tspan><tspan
+           x="17.105469"
+           y="93.973828"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.7625px;font-family:Roboto;-inkscape-font-specification:Roboto;shape-inside:url(#rect837-0-1)">- getLastDiceResult() : int
+</tspan></tspan><tspan
+           x="17.105469"
+           y="99.926953"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.7625px;font-family:Roboto;-inkscape-font-specification:Roboto;shape-inside:url(#rect837-0-1)">- rollDice() : int
+</tspan></tspan><tspan
+           x="17.105469"
+           y="105.88008"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.7625px;font-family:Roboto;-inkscape-font-specification:Roboto;shape-inside:url(#rect837-0-1)">- isFirstPlayerDetermined() : boolean
+</tspan></tspan><tspan
+           x="17.105469"
+           y="111.8332"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.7625px;font-family:Roboto;-inkscape-font-specification:Roboto;shape-inside:url(#rect837-0-1)">- isPlayableInGameContext(piece : Piece) : boolean
+</tspan></tspan><tspan
+           x="17.105469"
+           y="117.78633"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.7625px;font-family:Roboto;-inkscape-font-specification:Roboto;shape-inside:url(#rect837-0-1)">- isBlockInRange(position : int, range : int) : boolean</tspan></tspan></text>
+    </g>
+    <g
+       id="g1024-2"
+       transform="translate(213.85526,35.254032)">
+      <rect
+         style="opacity:1;fill:none;stroke:#000000;stroke-width:0.164162;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect833-5"
+         width="92.218758"
+         height="120.87263"
+         x="12.045029"
+         y="20.360504" />
+      <text
+         xml:space="preserve"
+         id="text835-2"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:6.35px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto Medium';text-align:start;white-space:pre;shape-inside:url(#rect837-5);"
+         transform="translate(31.412011,-3.1742303)"
+         x="24.770578"
+         y="0"><tspan
+           x="17.105469"
+           y="29.878516"><tspan
+             style="text-align:justify;text-anchor:start">Player</tspan></tspan></text>
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="M 12.058116,29.760933 H 104.26379"
+         id="path841-7"
+         sodipodi:nodetypes="cc" />
+      <text
+         xml:space="preserve"
+         id="text835-8-9"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:4.7625px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto Medium';white-space:pre;shape-inside:url(#rect837-0-5);"
+         transform="translate(-1.1363437,8.2864492)"><tspan
+           x="17.105469"
+           y="28.489453"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.7625px;font-family:Roboto;-inkscape-font-specification:Roboto;shape-inside:url(#rect837-0-5)">- color : PlayerColor
+</tspan></tspan><tspan
+           x="17.105469"
+           y="34.442578"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.7625px;font-family:Roboto;-inkscape-font-specification:Roboto;shape-inside:url(#rect837-0-5)">- pieces : Piece []
+</tspan></tspan><tspan
+           x="17.105469"
+           y="40.395703"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.7625px;font-family:Roboto;-inkscape-font-specification:Roboto;shape-inside:url(#rect837-0-5)">- capturedPieces : int
+</tspan></tspan><tspan
+           x="17.105469"
+           y="46.348828"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.7625px;font-family:Roboto;-inkscape-font-specification:Roboto;shape-inside:url(#rect837-0-5)">- successiveRolls : byte
+</tspan></tspan><tspan
+           x="17.105469"
+           y="52.301953"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.7625px;font-family:Roboto;-inkscape-font-specification:Roboto;shape-inside:url(#rect837-0-5)">- controlledByComputer : boolean</tspan></tspan></text>
+      <path
+         style="display:inline;fill:none;stroke:#000000;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="M 12.127111,64.633929 H 104.26379"
+         id="path841-3-0"
+         sodipodi:nodetypes="cc" />
+      <text
+         xml:space="preserve"
+         id="text835-8-8-6"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:4.7625px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto Medium';white-space:pre;shape-inside:url(#rect837-0-1-8);display:inline;"
+         transform="translate(-1.2020631,42.667703)"><tspan
+           x="17.105469"
+           y="28.489453"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.7625px;font-family:Roboto;-inkscape-font-specification:Roboto;shape-inside:url(#rect837-0-1-8)">- isControlledByComputer() : boolean
+</tspan></tspan><tspan
+           x="17.105469"
+           y="34.442578"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.7625px;font-family:Roboto;-inkscape-font-specification:Roboto;shape-inside:url(#rect837-0-1-8)">- getColor() : PlayerColor
+</tspan></tspan><tspan
+           x="17.105469"
+           y="40.395703"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.7625px;font-family:Roboto;-inkscape-font-specification:Roboto;shape-inside:url(#rect837-0-1-8)">- toString() : String
+</tspan></tspan><tspan
+           x="17.105469"
+           y="46.348828"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.7625px;font-family:Roboto;-inkscape-font-specification:Roboto;shape-inside:url(#rect837-0-1-8)">- getPiece(n : int) : Piece
+</tspan></tspan><tspan
+           x="17.105469"
+           y="52.301953"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.7625px;font-family:Roboto;-inkscape-font-specification:Roboto;shape-inside:url(#rect837-0-1-8)">- piecesInHome() : int
+</tspan></tspan><tspan
+           x="17.105469"
+           y="58.255078"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.7625px;font-family:Roboto;-inkscape-font-specification:Roboto;shape-inside:url(#rect837-0-1-8)">- hasFinished() : boolean
+</tspan></tspan><tspan
+           x="17.105469"
+           y="64.208203"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.7625px;font-family:Roboto;-inkscape-font-specification:Roboto;shape-inside:url(#rect837-0-1-8)">- isAbleToEnterColoredZone() : boolean
+</tspan></tspan><tspan
+           x="17.105469"
+           y="70.161328"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.7625px;font-family:Roboto;-inkscape-font-specification:Roboto;shape-inside:url(#rect837-0-1-8)">- incrementCapturedPieces() : void
+</tspan></tspan><tspan
+           x="17.105469"
+           y="76.114453"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.7625px;font-family:Roboto;-inkscape-font-specification:Roboto;shape-inside:url(#rect837-0-1-8)">- hasJustPlacedFirstPiece() : boolean
+</tspan></tspan><tspan
+           x="17.105469"
+           y="82.067578"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.7625px;font-family:Roboto;-inkscape-font-specification:Roboto;shape-inside:url(#rect837-0-1-8)">- resetSuccessiveRolls() : void
+</tspan></tspan><tspan
+           x="17.105469"
+           y="88.020703"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.7625px;font-family:Roboto;-inkscape-font-specification:Roboto;shape-inside:url(#rect837-0-1-8)">- incrementSuccessiveRolls() : void
+</tspan></tspan><tspan
+           x="17.105469"
+           y="93.973828"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.7625px;font-family:Roboto;-inkscape-font-specification:Roboto;shape-inside:url(#rect837-0-1-8)">- isAllowedToGetAnotherRoll() : boolean
+</tspan></tspan></text>
+    </g>
+    <g
+       id="g1024-2-0"
+       transform="translate(318.7608,34.909752)">
+      <rect
+         style="opacity:1;fill:none;stroke:#000000;stroke-width:0.164162;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect833-5-8"
+         width="79.122551"
+         height="127.28709"
+         x="12.045029"
+         y="20.360504" />
+      <text
+         xml:space="preserve"
+         id="text835-2-2"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:6.35px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto Medium';text-align:start;white-space:pre;shape-inside:url(#rect837-5-3);"
+         transform="translate(27.937508,-2.3724217)"
+         x="32.351509"
+         y="0"
+         inkscape:transform-center-x="-1.0690781"
+         inkscape:transform-center-y="-0.26726954"><tspan
+           x="17.105469"
+           y="29.878516"><tspan
+             style="text-align:justify;text-anchor:start">Piece</tspan></tspan></text>
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="M 12.058116,29.760933 H 91.16758"
+         id="path841-7-1"
+         sodipodi:nodetypes="cc" />
+      <text
+         xml:space="preserve"
+         id="text835-8-9-6"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:4.7625px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto Medium';white-space:pre;shape-inside:url(#rect837-0-5-5);"
+         transform="translate(-1.1363437,8.2864492)"><tspan
+           x="17.105469"
+           y="28.489453"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:Roboto">- position : int
+</tspan></tspan><tspan
+           x="17.105469"
+           y="34.442578"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:Roboto">- player : Player
+</tspan></tspan><tspan
+           x="17.105469"
+           y="40.395703"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:Roboto">- blockPiece : Piece</tspan></tspan></text>
+      <path
+         style="display:inline;fill:none;stroke:#000000;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="M 12.045029,52.339531 H 91.16758"
+         id="path841-3-0-2"
+         sodipodi:nodetypes="cc" />
+      <text
+         xml:space="preserve"
+         id="text835-8-8-6-1"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:4.7625px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto Medium';white-space:pre;shape-inside:url(#rect837-0-1-8-9);display:inline;"
+         transform="translate(-1.2020631,30.913216)"><tspan
+           x="17.105469"
+           y="28.489453"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:Roboto">- isOnTrack() : boolean
+</tspan></tspan><tspan
+           x="17.105469"
+           y="34.442578"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:Roboto">- getPlayerId() : int
+</tspan></tspan><tspan
+           x="17.105469"
+           y="40.395703"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:Roboto">- getAbsolutePosition() : int
+</tspan></tspan><tspan
+           x="17.105469"
+           y="46.348828"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:Roboto">- getPosition() : int
+</tspan></tspan><tspan
+           x="17.105469"
+           y="52.301953"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:Roboto">- getColor() : PlayerColor
+</tspan></tspan><tspan
+           x="17.105469"
+           y="58.255078"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:Roboto">- move(n : int) : void
+</tspan></tspan><tspan
+           x="17.105469"
+           y="64.208203"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:Roboto">- capture() : void
+</tspan></tspan><tspan
+           x="17.105469"
+           y="70.161328"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:Roboto">- isInColoredArea() : boolean
+</tspan></tspan><tspan
+           x="17.105469"
+           y="76.114453"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:Roboto">- isInHome() : boolean
+</tspan></tspan><tspan
+           x="17.105469"
+           y="82.067578"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:Roboto">- getPlayer() : player
+</tspan></tspan><tspan
+           x="17.105469"
+           y="88.020703"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:Roboto">- toString() : String
+</tspan></tspan><tspan
+           x="17.105469"
+           y="93.973828"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:Roboto">- createBlock(piece : Piece) : void
+</tspan></tspan><tspan
+           x="17.105469"
+           y="99.926953"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:Roboto">- breakBlock() : void
+</tspan></tspan><tspan
+           x="17.105469"
+           y="105.88008"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:Roboto">- isBlocked() : boolean
+</tspan></tspan><tspan
+           x="17.105469"
+           y="111.8332"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:Roboto">- getBlockPiece() : Piece</tspan></tspan></text>
+    </g>
+    <g
+       id="g1024-2-0-5"
+       transform="translate(187.96057,285.22273)">
+      <rect
+         style="opacity:1;fill:none;stroke:#000000;stroke-width:0.164162;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect833-5-8-7"
+         width="115.20393"
+         height="103.23282"
+         x="12.045029"
+         y="20.360504" />
+      <text
+         xml:space="preserve"
+         id="text835-2-2-4"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:6.35px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto Medium';text-align:start;white-space:pre;shape-inside:url(#rect837-5-3-5);"
+         transform="translate(30.075664,-2.3724217)"
+         x="52.04488"
+         y="0"><tspan
+           x="17.105469"
+           y="29.878516"><tspan
+             style="text-align:justify;text-anchor:start">BoardPosition</tspan></tspan></text>
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="M 12.058116,29.760933 H 127.24896"
+         id="path841-7-1-3"
+         sodipodi:nodetypes="cc" />
+      <text
+         xml:space="preserve"
+         id="text835-8-9-6-5"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:4.7625px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto Medium';white-space:pre;shape-inside:url(#rect837-0-5-5-1);"
+         transform="translate(-1.1363437,8.2864492)"><tspan
+           x="17.105469"
+           y="28.489453"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:Roboto">- x : int
+</tspan></tspan><tspan
+           x="17.105469"
+           y="34.442578"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:Roboto">- y : int
+</tspan></tspan><tspan
+           x="17.105469"
+           y="40.395703"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:Roboto">- GRID_SIZE : int</tspan></tspan></text>
+      <path
+         style="display:inline;fill:none;stroke:#000000;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="M 12.045029,52.339531 H 127.24896"
+         id="path841-3-0-2-6"
+         sodipodi:nodetypes="cc" />
+      <text
+         xml:space="preserve"
+         id="text835-8-8-6-1-9"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:4.7625px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto Medium';white-space:pre;shape-inside:url(#rect837-0-1-8-9-8);display:inline;"
+         transform="translate(-1.2020631,30.913216)"><tspan
+           x="17.105469"
+           y="28.489453"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:Roboto">- getX() : int
+</tspan></tspan><tspan
+           x="17.105469"
+           y="34.442578"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:Roboto">- getY() : int
+</tspan></tspan><tspan
+           x="17.105469"
+           y="40.395703"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:Roboto">- moveX(x : int) : void
+</tspan></tspan><tspan
+           x="17.105469"
+           y="46.348828"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:Roboto">- moveY(y : int) : void
+</tspan></tspan><tspan
+           x="17.105469"
+           y="52.301953"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:Roboto">- getDisplayX() : int
+</tspan></tspan><tspan
+           x="17.105469"
+           y="58.255078"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:Roboto">- getDisplayY() : int
+</tspan></tspan><tspan
+           x="17.105469"
+           y="64.208203"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:Roboto">- setXY(x : int, y : int) : void
+</tspan></tspan><tspan
+           x="17.105469"
+           y="70.161328"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:Roboto">- getXYPosition(n : int) : BoardPosition
+</tspan></tspan><tspan
+           x="17.105469"
+           y="76.114453"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:Roboto">- getStartXY(c : PlayerColor, i : int) : BoardPosition
+</tspan></tspan><tspan
+           x="17.105469"
+           y="82.067578"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:Roboto">- getEndXY(p : Piece)
+</tspan></tspan><tspan
+           x="17.105469"
+           y="88.020703"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:Roboto">- isSafeSquare(n : int) : boolean</tspan></tspan></text>
+    </g>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 213.36571,113.87749 h 12.53458"
+       id="path1734" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 318.11905,112.74356 h 12.68678"
+       id="path1736" />
+    <g
+       id="g1024-2-0-5-0"
+       transform="translate(88.500129,200.94781)">
+      <rect
+         style="opacity:1;fill:none;stroke:#000000;stroke-width:0.164162;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect833-5-8-7-4"
+         width="75.894417"
+         height="117.21793"
+         x="12.045029"
+         y="20.360504" />
+      <text
+         xml:space="preserve"
+         id="text835-2-2-4-0"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:6.35px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto Medium';text-align:start;white-space:pre;shape-inside:url(#rect837-5-3-5-9);"
+         transform="translate(12.034971,-2.6396913)"
+         x="149.30251"
+         y="0"><tspan
+           x="17.105469"
+           y="29.878516"><tspan
+             style="text-align:start;text-anchor:start">GameWindow</tspan></tspan></text>
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="M 12.058116,29.760933 H 87.939445"
+         id="path841-7-1-3-4"
+         sodipodi:nodetypes="cc" />
+      <text
+         xml:space="preserve"
+         id="text835-8-9-6-5-5"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:4.7625px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto Medium';white-space:pre;shape-inside:url(#rect837-0-5-5-1-2);"
+         transform="translate(-1.1363437,8.2864492)"><tspan
+           x="17.105469"
+           y="28.489453"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:Roboto">- labelGameInfo : JTextArea
+</tspan></tspan><tspan
+           x="17.105469"
+           y="34.442578"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:Roboto">- labelPlayer : JLabel
+</tspan></tspan><tspan
+           x="17.105469"
+           y="40.395703"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:Roboto">- btnRoll : JButton
+</tspan></tspan><tspan
+           x="17.105469"
+           y="46.348828"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:Roboto">- btnContinue : JButton
+</tspan></tspan><tspan
+           x="17.105469"
+           y="52.301953"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:Roboto">- diceIcon : JLabel
+</tspan></tspan><tspan
+           x="17.105469"
+           y="58.255078"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:Roboto">- centerPanel : JLayeredPane
+</tspan></tspan><tspan
+           x="17.105469"
+           y="64.208203"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:Roboto">- rightPanel : JPanel
+</tspan></tspan><tspan
+           x="17.105469"
+           y="70.161328"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:Roboto">- rankPanel : JPanel
+</tspan></tspan><tspan
+           x="17.105469"
+           y="76.114453"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:Roboto">- piecesButtons : PieceButton []
+</tspan></tspan><tspan
+           x="17.105469"
+           y="82.067578"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:Roboto">- game : Game</tspan></tspan></text>
+      <path
+         style="display:inline;fill:none;stroke:#000000;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="M 12.045029,95.050839 H 87.939445"
+         id="path841-3-0-2-6-2"
+         sodipodi:nodetypes="cc" />
+      <text
+         xml:space="preserve"
+         id="text835-8-8-6-1-9-3"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:4.7625px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto Medium';white-space:pre;shape-inside:url(#rect837-0-1-8-9-8-5);display:inline;"
+         transform="translate(-1.5800393,74.002505)"><tspan
+           x="17.105469"
+           y="28.489453"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:Roboto">- addItemToRankPanel() : void
+</tspan></tspan><tspan
+           x="17.105469"
+           y="34.442578"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:Roboto">- refreshBoard() : void
+</tspan></tspan><tspan
+           x="17.105469"
+           y="40.395703"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:Roboto">- playPiece(piece : Piece) : void
+</tspan></tspan><tspan
+           x="17.105469"
+           y="46.348828"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:Roboto">- rollDice() : void
+</tspan></tspan><tspan
+           x="17.105469"
+           y="52.301953"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:Roboto">- finishTurn() : void
+</tspan></tspan><tspan
+           x="17.105469"
+           y="58.255078"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:Roboto">- beginTurn() : void</tspan></tspan></text>
+    </g>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 176.43957,329.00697 H 200.0056"
+       id="path1936"
+       sodipodi:nodetypes="cc" />
+    <g
+       id="g1024-2-0-5-3"
+       transform="translate(-4.9372151,171.52257)">
+      <rect
+         style="opacity:1;fill:none;stroke:#000000;stroke-width:0.164162;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect833-5-8-7-9"
+         width="79.657089"
+         height="25.056482"
+         x="12.045029"
+         y="20.360504" />
+      <text
+         xml:space="preserve"
+         id="text835-2-2-4-9"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:6.35px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto Medium';text-align:start;white-space:pre;shape-inside:url(#rect837-5-3-5-3);"
+         transform="translate(16.979457,-2.3724217)"
+         x="66.712204"
+         y="0"><tspan
+           x="17.105469"
+           y="29.878516"><tspan
+             style="text-align:justify;text-anchor:start">MainMenu</tspan></tspan></text>
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="M 12.058116,29.760933 H 91.702118"
+         id="path841-7-1-3-42"
+         sodipodi:nodetypes="cc" />
+      <text
+         xml:space="preserve"
+         id="text835-8-9-6-5-3"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:4.7625px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto Medium';white-space:pre;shape-inside:url(#rect837-0-5-5-1-7);"
+         transform="translate(-1.1363437,8.2864492)"><tspan
+           x="17.105469"
+           y="28.489453"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:Roboto">- mainPanel : JPanel
+</tspan></tspan><tspan
+           x="17.105469"
+           y="34.442578"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:Roboto">- modeSelect : JComboBox&lt;String&gt;</tspan></tspan></text>
+    </g>
+    <g
+       id="g1024-2-0-5-05"
+       transform="translate(329.40493,323.18352)">
+      <rect
+         style="opacity:1;fill:none;stroke:#000000;stroke-width:0.164162;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect833-5-8-7-8"
+         width="86.606094"
+         height="48.44257"
+         x="-128.85838"
+         y="-77.310097" />
+      <text
+         xml:space="preserve"
+         id="text835-2-2-4-4"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:6.35px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto Medium';text-align:justify;white-space:pre;shape-inside:url(#rect837-5-3-5-5)"
+         transform="translate(-119.64765,-100.57756)"
+         x="68.939972"
+         y="0"><tspan
+           x="17.105469"
+           y="29.878516"><tspan
+             style="text-align:justify;text-anchor:start">PieceButton</tspan></tspan></text>
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m -128.8453,-67.909669 h 86.593008"
+         id="path841-7-1-3-45"
+         sodipodi:nodetypes="cc" />
+      <text
+         xml:space="preserve"
+         id="text835-8-9-6-5-4"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:4.7625px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto Medium';white-space:pre;shape-inside:url(#rect837-0-5-5-1-5);"
+         transform="translate(-142.03976,-89.384153)"><tspan
+           x="17.105469"
+           y="28.489453"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:Roboto">- piece : Piece</tspan></tspan></text>
+      <path
+         style="display:inline;fill:none;stroke:#000000;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m -128.85838,-55.914404 h 86.606088"
+         id="path841-3-0-2-6-5"
+         sodipodi:nodetypes="cc" />
+      <text
+         xml:space="preserve"
+         id="text835-8-8-6-1-9-9"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:4.7625px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto Medium';white-space:pre;shape-inside:url(#rect837-0-1-8-9-8-8);display:inline;"
+         transform="translate(-142.90729,-78.784515)"><tspan
+           x="17.105469"
+           y="28.489453"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:Roboto">- getPiece() : Piece
+</tspan></tspan><tspan
+           x="17.105469"
+           y="34.442578"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:Roboto">- setEnabled(enabled : boolean) : void
+</tspan></tspan><tspan
+           x="17.105469"
+           y="40.395703"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:Roboto">- refreshAppearance() : void
+</tspan></tspan><tspan
+           x="17.105469"
+           y="46.348828"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:Roboto">- setSize(width : int, height : int) : void</tspan></tspan></text>
+    </g>
+    <g
+       id="g1024-2-0-5-3-4"
+       transform="translate(171.36862,-85.855374)">
+      <rect
+         style="opacity:1;fill:none;stroke:#000000;stroke-width:0.164162;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect833-5-8-7-9-4"
+         width="59.830421"
+         height="32.740261"
+         x="18.8486"
+         y="99.357529" />
+      <text
+         xml:space="preserve"
+         id="text835-2-2-4-9-2"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:6.35px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto Medium';text-align:start;white-space:pre;shape-inside:url(#rect837-5-3-5-3-6);"
+         transform="translate(5.3414311,76.090063)"
+         x="92.340096"
+         y="0"><tspan
+           x="17.105469"
+           y="29.878516"><tspan
+             style="text-align:justify;text-anchor:start">PlayerAIController</tspan></tspan></text>
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="M 18.861687,108.75796 H 78.679021"
+         id="path841-7-1-3-42-5"
+         sodipodi:nodetypes="cc" />
+      <text
+         xml:space="preserve"
+         id="text835-8-9-6-5-3-4"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:4.7625px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto Medium';white-space:pre;shape-inside:url(#rect837-0-5-5-1-7-5);"
+         transform="translate(5.6672277,87.283473)"><tspan
+           x="17.105469"
+           y="28.489453"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:Roboto;shape-inside:url(#rect837-0-5-5-1-7-5)">- game : Game</tspan></tspan></text>
+      <path
+         style="display:inline;fill:none;stroke:#000000;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="M 18.848602,119.80828 H 78.679021"
+         id="path841-3-0-2-6-1-1"
+         sodipodi:nodetypes="cc" />
+      <text
+         xml:space="preserve"
+         id="text835-8-8-6-1-9-5-2"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:4.7625px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto Medium';white-space:pre;shape-inside:url(#rect837-0-1-8-9-8-1-8);display:inline;"
+         transform="translate(4.4675797,98.759942)"><tspan
+           x="17.105469"
+           y="28.489453"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:Roboto;shape-inside:url(#rect837-0-1-8-9-8-1-8);display:inline">- getPieceToPlay() : Piece</tspan></tspan></text>
+    </g>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 118.9293,204.65079 v 16.65752"
+       id="path2434"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 176.43957,274.89534 h 24.10698"
+       id="path2438"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 248.95312,294.316 v 11.26723"
+       id="path2440" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 86.764901,196.51908 H 97.712439"
+       id="path2446" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 86.764901,213.75795 13.780259,7.55036"
+       id="path2448" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 198.41063,46.242412 v 9.37653"
+       id="path2450" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 235.64128,46.242412 v 9.37212"
+       id="path2452" />
+    <g
+       id="g1024-2-0-5-05-0"
+       transform="translate(374.68026,263.06398)">
+      <rect
+         style="opacity:1;fill:none;stroke:#000000;stroke-width:0.164162;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect833-5-8-7-8-3"
+         width="72.431992"
+         height="53.167271"
+         x="-128.85838"
+         y="-77.310097" />
+      <text
+         xml:space="preserve"
+         id="text835-2-2-4-4-3"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:6.35px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto Medium';text-align:start;white-space:pre;shape-inside:url(#rect837-5-3-5-5-6);"
+         transform="translate(-126.59666,-100.84483)"
+         x="94.567863"
+         y="0"><tspan
+           x="17.105469"
+           y="29.878516"><tspan
+             style="text-align:justify;text-anchor:start">PlayerColor</tspan></tspan></text>
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m -128.8453,-67.909669 h 72.418908"
+         id="path841-7-1-3-45-5"
+         sodipodi:nodetypes="cc" />
+      <text
+         xml:space="preserve"
+         id="text835-8-9-6-5-4-9"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:4.7625px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto Medium';white-space:pre;shape-inside:url(#rect837-0-5-5-1-5-7);"
+         transform="translate(-142.03976,-89.384153)"><tspan
+           x="17.105469"
+           y="28.489453"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:Roboto">- number : int
+</tspan></tspan><tspan
+           x="17.105469"
+           y="34.442578"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:Roboto">- name : String
+</tspan></tspan><tspan
+           x="17.105469"
+           y="40.395703"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:Roboto">- awtColor : java.awt.Color</tspan></tspan></text>
+      <path
+         style="display:inline;fill:none;stroke:#000000;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m -128.85838,-45.709047 h 72.431988"
+         id="path841-3-0-2-6-5-9"
+         sodipodi:nodetypes="cc" />
+      <text
+         xml:space="preserve"
+         id="text835-8-8-6-1-9-9-3"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:4.7625px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto Medium';white-space:pre;shape-inside:url(#rect837-0-1-8-9-8-8-5);display:inline;"
+         transform="translate(-142.52931,-68.201181)"><tspan
+           x="17.105469"
+           y="28.489453"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:Roboto">- getNum() : int
+</tspan></tspan><tspan
+           x="17.105469"
+           y="34.442578"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:Roboto">- toString() : String
+</tspan></tspan><tspan
+           x="17.105469"
+           y="40.395703"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:Roboto">- getAwtColor() : java.awt.Color</tspan></tspan></text>
+    </g>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 233.56241,176.48716 v 69.38626"
+       id="path2574"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 284.96716,176.48716 v 9.26672"
+       id="path2576" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 336.74991,183.51682 v 80.8869 h -49.89285"
+       id="path2578" />
+  </g>
+</svg>
